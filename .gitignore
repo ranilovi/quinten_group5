@@ -1,0 +1,14 @@
+development.py
+development/
+data/
+.spyproject/
+.spyderproject/
+.ipynb_checkpoints
+__pycache__/
+__pycache__*
+__pycache__/
+*.py[cod]
+*.png
+Notebook Interpretation.ipynb
+*.csv
+*.sav
